@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Progect\\LAB\\laba 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1562A1B-C4E6-44EB-BD61-BEF29FFE213C}|laba 6\\laba 6.vcxproj|D:\\Visual Studio Progect\\LAB\\laba 6\\laba 6\\laba - 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1562A1B-C4E6-44EB-BD61-BEF29FFE213C}|laba 6\\laba 6.vcxproj|solutionrelative:laba 6\\laba - 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba - 6.c",
+              "DocumentMoniker": "D:\\Visual Studio Progect\\LAB\\laba 6\\laba 6\\laba - 6.c",
+              "RelativeDocumentMoniker": "laba 6\\laba - 6.c",
+              "ToolTip": "D:\\Visual Studio Progect\\LAB\\laba 6\\laba 6\\laba - 6.c",
+              "RelativeToolTip": "laba 6\\laba - 6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-24T09:30:30.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
